@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [enokoo.netlify.app](enokoo.netlify.app)
+- 👨‍💻 All of my projects are available at [eno](eno)
 
 - 💬 Ask me about **Android, UI/UX**
 
