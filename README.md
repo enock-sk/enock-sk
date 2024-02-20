@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sang Enock</h1>
+<h1 align="center">Hi 👋, I'm Kiplangat Enock</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
 <p align="left"> </p>
