@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [eno](eno)
+- 👨‍💻 All of my projects are available at [enoafrica.vercel.app](enoafrica.vercel.app)
 
 - 💬 Ask me about **Android, UI/UX**
 
-- 📫 How to reach me **ekiplangat64@gmail.com**
+- 📫 How to reach me **ekiplangat64@gmail.com || Whatsapp +254724299505**
 
 - ⚡ Fun fact **I am Funny**
 
