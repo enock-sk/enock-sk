@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [enoafrica.vercel.app](enoafrica.vercel.app)
 
-- 💬 Ask me about **Android, UI/UX**
+- 💬 Ask me about **Backend, Frontend development, Android-Flutter/Dart/Java, UI/UX**
 
 - 📫 How to reach me **ekiplangat64@gmail.com || Whatsapp +254724299505**
 
