@@ -138,25 +138,3 @@
   <a href="mailto:ekiplangat64@gmail.com" style="background-color: #F97316; color: #FFFFFF; padding: 10px 20px; border-radius: 8px; text-decoration: none; transition: background-color 0.3s ease;">Contact Me</a>
 </div>
 
-<!-- Responsive Design -->
-<style>
-  a:hover img {
-    transform: scale(1.1);
-  }
-  @media (max-width: 600px) {
-    h1 {
-      font-size: 2rem;
-    }
-    h3 {
-      font-size: 1.2rem;
-    }
-    .container {
-      padding: 10px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  }
-</style>
-</div>
